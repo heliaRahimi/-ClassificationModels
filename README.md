@@ -11,7 +11,7 @@ mv ~/Downloads/weatherAUS.csv ${workspace}/resources/
 ```
 
 
-# Teammates:
+# Team members:
 * Daniel
 * Natalie
 * Helia
