@@ -132,5 +132,5 @@ dmypy.json
 .pyre/
 
 # Datasets
-resources/
+resources/weatherAUS.csv
 weatherAUS.csv
