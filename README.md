@@ -47,4 +47,4 @@ mv ~/Downloads/*.csv ${workspace}/resources/
 
 # Documents
 * [Report](https://docs.google.com/document/d/1D7dSbcg0g_WZgbqIH6NIk7gdNDrqBQxNmijSkE3kBzI/edit?usp=sharing)
-* [Demo](https://docs.google.com/presentation/d/1GMOcLuv9F3LHNTfA0DbyfIg4PxKoxmsLwrZ3LxL-3kE/edit?usp=sharing)
+* [Demo](https://docs.google.com/presentation/d/15gnMNPYv-XDxAcSnQ5KdhfjCPme5HL9x0g9d1zKFovM/edit#slide=id.gdcb566e1d5_0_62)

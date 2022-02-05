@@ -133,4 +133,6 @@ dmypy.json
 
 # Datasets
 resources/weatherAUS.csv
+resources/.DS_Store
+.DS_Store
 weatherAUS.csv
